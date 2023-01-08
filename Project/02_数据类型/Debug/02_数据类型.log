@@ -1,0 +1,4 @@
+﻿  02常见数据类型.cpp
+D:\CodingSpace\VisualStudy\C++\01Basic\02_数据类型\02常见数据类型.cpp(6,17): warning C4305: “初始化”: 从“double”到“float”截断
+D:\CodingSpace\VisualStudy\C++\01Basic\02_数据类型\02常见数据类型.cpp(14,17): warning C4305: “初始化”: 从“double”到“float”截断
+  02_数据类型.vcxproj -> D:\CodingSpace\VisualStudy\C++\01Basic\02_数据类型\Debug\02_数据类型.exe
